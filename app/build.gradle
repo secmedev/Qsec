@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: id "com.guardsquare.appsweep" version "latest.release"
 
 android {
     compileSdkVersion 23
@@ -22,6 +23,9 @@ android {
             jni.srcDirs = []
         }
     }
+    appsweep {
+    apiKey "gs_appsweep_xL0LlqT_119sJYNnwue9zsaSR7hUpVIaKu9EjDoR"
+}
 }
 
 dependencies {
