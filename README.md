@@ -31,7 +31,7 @@ I tried to put as much vulnerabilities as possible in a short period of time. I 
 10. Access Control Issues – Part 2
 11. Access Control Issues – Part 3
 12. Hardcoding Issues – Part 2
-13. Input Validation Issues – Part 3
+13. Input Validation Issues – Part 
 
 ## Can I contribute?
 Yes, you can help by sending us the details of vulnerabilities that we can implement in future versions of Diva. Please send an email to info [at] payatu.com with subject “DIVA Contribution”.
